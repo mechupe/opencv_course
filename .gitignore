@@ -3,3 +3,5 @@ data/
 .DS_Store
 goturn.caffemodel
 goturn.prototxt
+race_car-GOTURN.mp4
+hw/tracked_kitty.mov
